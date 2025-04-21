@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Thy Tran</h1>
-<h3 align="center">An aspiring software engineer who builds the bridge between technology world and bussiness world.</h3>
+<h3 align="center">An aspiring software engineer passionate about solving complex problems, and building impactful software products to make people's lives easier and serve the community better.</h3>
 
 - 🔭 I’m currently working on [CYOL project (Choose your own lecture)](https://github.com/KyleReedUSF/CYOL)
 
