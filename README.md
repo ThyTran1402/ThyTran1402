@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, TensorFlow, AI and ML models**
 
-- 👯 I’m looking to collaborate on **Web development with focus on backend & AI/ML Engineers**
+- 👯 I’m looking to collaborate on **Web development with focus on backend & AI/ML Engineer**
 
 - 💬 Ask me about **anything related to Full Stack development and tech trends in general**
 
