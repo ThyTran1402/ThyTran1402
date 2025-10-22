@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything related to Full Stack development and tech trends in general**
 
-- 📫 How to reach me **ttran140201@gmail.com**
+- 📫 How to reach me **thytran.swe@gmail.com**
 
 - ⚡ Fun fact **Hiking, Traveling, Anime, Boba and Food lover**
 
