@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Thy Tran</h1>
 <h3 align="center">An aspiring software engineer passionate about solving complex problems, and building impactful software products to make people's lives easier and serve the community better.</h3>
 
-- 🔭 I’m currently working on [CYOL project (Choose your own lecture)](https://github.com/KyleReedUSF/CYOL)
+- 🔭 I’m currently working on [OpenSearch Project](https://github.com/opensearch-project) and [Kogna AI - Bussiness Intelligence Platforms](https://github.com/Kogna-AI/Kogna-AI)
 
 - 🌱 I’m currently learning **Go, TensorFlow, AI and ML models**
 
