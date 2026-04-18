@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, My name is Thy Tran</h1>
 <h3 align="center">An aspiring software engineer passionate about solving complex problems, and building impactful software products to make people's lives easier and serve the community better.</h3>
 
-- 🔭 I’m currently working on [OpenSearch Project](https://github.com/opensearch-project) and [Kogna AI - Bussiness Intelligence Platforms](https://github.com/Kogna-AI/Kogna-AI)
+- 🔭 I’m currently working on [OpenSearch Project](https://github.com/opensearch-project), and [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-collector)
 
-- 🌱 I’m currently learning **Go, TensorFlow, AI and ML models**
+- 🌱 I’m currently learning **Go, K8S, AI/ML**
 
 - 👯 I’m looking to collaborate on **Web development with focus on backend & AI/ML Engineers**
 
 - 👨‍💻 All of my projects are available at [https://thytran1402.github.io/thy-portfolio/](https://thytran1402.github.io/thy-portfolio/)
 
-- 💬 Ask me about **anything related to Full Stack development and tech trends in general**
+- 💬 Ask me about **anything related to Full-stack, infra, system development in general**
 
 - 📫 How to reach me **thytran.swe@gmail.com**
 
