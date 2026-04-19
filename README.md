@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, K8S, AI/ML**
 
-- 👯 I’m looking to collaborate on **Web development with focus on backend & AI/ML Engineers**
+- 👯 I’m looking to collaborate on **Web development with focus on backend, infra, & AI/ML Engineers**
 
 - 👨‍💻 All of my projects are available at [https://thytran1402.github.io/thy-portfolio/](https://thytran1402.github.io/thy-portfolio/)
 
